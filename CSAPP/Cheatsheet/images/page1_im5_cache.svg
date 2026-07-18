@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name=" 图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.94 195.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-width: .48px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-size: 7.68px;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-8 {
+        fill: #231f20;
+      }
+
+      .cls-4, .cls-6 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-5, .cls-8 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .cls-8 {
+        font-size: 5.76px;
+      }
+
+      .cls-9 {
+        fill: #d4effc;
+      }
+    </style>
+  </defs>
+  <path class="cls-9" d="M89.48,70.91h147.54V30.24H89.48v40.67Z"/>
+  <path class="cls-2" d="M237.02,70.91H89.48V30.24h147.54v40.67Z"/>
+  <path class="cls-9" d="M89.48,118.67h147.54v-40.67H89.48v40.67Z"/>
+  <path class="cls-2" d="M237.02,118.67H89.48v-40.67h147.54v40.67Z"/>
+  <path class="cls-9" d="M89.48,179.15h147.54v-40.67H89.48v40.67Z"/>
+  <path class="cls-2" d="M237.02,179.15H89.48v-40.67h147.54v40.67Z"/>
+  <path class="cls-1" d="M189.53,66.92h23.17v-10.56h-23.17v10.56Z"/>
+  <path class="cls-2" d="M212.7,66.92h-23.17v-10.56h23.17v10.56Z"/>
+  <path class="cls-1" d="M189.53,44.13h23.17v-10.56h-23.17v10.56Z"/>
+  <path class="cls-2" d="M212.7,44.13h-23.17v-10.56h23.17v10.56Z"/>
+  <path class="cls-1" d="M189.53,114.68h23.17v-10.56h-23.17v10.56Z"/>
+  <path class="cls-2" d="M212.7,114.68h-23.17v-10.56h23.17v10.56Z"/>
+  <path class="cls-1" d="M189.53,91.89h23.17v-10.56h-23.17v10.56Z"/>
+  <path class="cls-2" d="M212.7,91.89h-23.17v-10.56h23.17v10.56Z"/>
+  <path class="cls-1" d="M189.53,175.16h23.17v-10.56h-23.17v10.56Z"/>
+  <path class="cls-2" d="M212.7,175.16h-23.17v-10.56h23.17v10.56Z"/>
+  <path class="cls-1" d="M189.53,152.37h23.17v-10.56h-23.17v10.56Z"/>
+  <path class="cls-2" d="M212.7,152.37h-23.17v-10.56h23.17v10.56Z"/>
+  <path class="cls-1" d="M94.16,66.92h19.86v-10.56h-19.86v10.56Z"/>
+  <path class="cls-2" d="M114.03,66.92h-19.86v-10.56h19.86v10.56Z"/>
+  <path class="cls-1" d="M121.52,66.92h30.9v-10.56h-30.9s0,10.56,0,10.56Z"/>
+  <path class="cls-2" d="M152.42,66.92h-30.9v-10.56h30.9v10.56Z"/>
+  <path class="cls-1" d="M157.52,66.92h16.5v-10.56h-16.5v10.56Z"/>
+  <path class="cls-2" d="M174.02,66.92h-16.5v-10.56h16.5v10.56Z"/>
+  <path class="cls-1" d="M174.05,66.92h16.3v-10.56h-16.3v10.56Z"/>
+  <path class="cls-2" d="M190.34,66.92h-16.3v-10.56h16.3v10.56Z"/>
+  <path class="cls-1" d="M212.72,66.92h17.46v-10.56h-17.46v10.56h0Z"/>
+  <path class="cls-2" d="M230.18,66.92h-17.46v-10.56h17.46v10.56Z"/>
+  <path class="cls-1" d="M94.16,44.13h19.86v-10.56h-19.86v10.56Z"/>
+  <path class="cls-2" d="M114.03,44.13h-19.86v-10.56h19.86v10.56Z"/>
+  <path class="cls-1" d="M121.52,44.13h30.9v-10.56h-30.9s0,10.56,0,10.56Z"/>
+  <path class="cls-2" d="M152.42,44.13h-30.9v-10.56h30.9v10.56Z"/>
+  <path class="cls-1" d="M157.52,44.13h16.5v-10.56h-16.5v10.56Z"/>
+  <path class="cls-2" d="M174.02,44.13h-16.5v-10.56h16.5v10.56Z"/>
+  <path class="cls-1" d="M174.05,44.13h16.3v-10.56h-16.3v10.56Z"/>
+  <path class="cls-2" d="M190.34,44.13h-16.3v-10.56h16.3v10.56Z"/>
+  <path class="cls-1" d="M212.72,44.13h17.46v-10.56h-17.46v10.56h0Z"/>
+  <path class="cls-2" d="M230.18,44.13h-17.46v-10.56h17.46v10.56Z"/>
+  <path class="cls-1" d="M94.16,114.68h19.86v-10.56h-19.86v10.56Z"/>
+  <path class="cls-2" d="M114.03,114.68h-19.86v-10.56h19.86v10.56Z"/>
+  <path class="cls-1" d="M121.52,114.68h30.9v-10.56h-30.9s0,10.56,0,10.56Z"/>
+  <path class="cls-2" d="M152.42,114.68h-30.9v-10.56h30.9v10.56Z"/>
+  <path class="cls-1" d="M157.52,114.68h16.5v-10.56h-16.5v10.56Z"/>
+  <path class="cls-2" d="M174.02,114.68h-16.5v-10.56h16.5v10.56Z"/>
+  <path class="cls-1" d="M174.05,114.68h16.3v-10.56h-16.3v10.56Z"/>
+  <path class="cls-2" d="M190.34,114.68h-16.3v-10.56h16.3v10.56Z"/>
+  <path class="cls-1" d="M212.72,114.68h17.46v-10.56h-17.46v10.56h0Z"/>
+  <path class="cls-2" d="M230.18,114.68h-17.46v-10.56h17.46v10.56Z"/>
+  <path class="cls-1" d="M94.16,91.89h19.86v-10.56h-19.86v10.56Z"/>
+  <path class="cls-2" d="M114.03,91.89h-19.86v-10.56h19.86v10.56Z"/>
+  <path class="cls-1" d="M121.52,91.89h30.9v-10.56h-30.9s0,10.56,0,10.56Z"/>
+  <path class="cls-2" d="M152.42,91.89h-30.9v-10.56h30.9v10.56Z"/>
+  <path class="cls-1" d="M157.52,91.89h16.5v-10.56h-16.5v10.56Z"/>
+  <path class="cls-2" d="M174.02,91.89h-16.5v-10.56h16.5v10.56Z"/>
+  <path class="cls-1" d="M174.05,91.89h16.3v-10.56h-16.3v10.56Z"/>
+  <path class="cls-2" d="M190.34,91.89h-16.3v-10.56h16.3v10.56Z"/>
+  <path class="cls-1" d="M212.72,91.89h17.46v-10.56h-17.46v10.56h0Z"/>
+  <path class="cls-2" d="M230.18,91.89h-17.46v-10.56h17.46v10.56Z"/>
+  <path class="cls-1" d="M94.16,175.16h19.86v-10.56h-19.86v10.56Z"/>
+  <path class="cls-2" d="M114.03,175.16h-19.86v-10.56h19.86v10.56Z"/>
+  <path class="cls-1" d="M121.52,175.16h30.9v-10.56h-30.9s0,10.56,0,10.56Z"/>
+  <path class="cls-2" d="M152.42,175.16h-30.9v-10.56h30.9v10.56Z"/>
+  <path class="cls-1" d="M157.52,175.16h16.5v-10.56h-16.5v10.56Z"/>
+  <path class="cls-2" d="M174.02,175.16h-16.5v-10.56h16.5v10.56Z"/>
+  <path class="cls-1" d="M174.05,175.16h16.3v-10.56h-16.3v10.56Z"/>
+  <path class="cls-2" d="M190.34,175.16h-16.3v-10.56h16.3v10.56Z"/>
+  <path class="cls-1" d="M212.72,175.16h17.46v-10.56h-17.46v10.56h0Z"/>
+  <path class="cls-2" d="M230.18,175.16h-17.46v-10.56h17.46v10.56Z"/>
+  <path class="cls-1" d="M94.16,152.37h19.86v-10.56h-19.86v10.56Z"/>
+  <path class="cls-2" d="M114.03,152.37h-19.86v-10.56h19.86v10.56Z"/>
+  <path class="cls-1" d="M121.52,152.37h30.9v-10.56h-30.9s0,10.56,0,10.56Z"/>
+  <path class="cls-2" d="M152.42,152.37h-30.9v-10.56h30.9v10.56Z"/>
+  <path class="cls-1" d="M157.52,152.37h16.5v-10.56h-16.5v10.56Z"/>
+  <path class="cls-2" d="M174.02,152.37h-16.5v-10.56h16.5v10.56Z"/>
+  <path class="cls-1" d="M174.05,152.37h16.3v-10.56h-16.3v10.56Z"/>
+  <path class="cls-2" d="M190.34,152.37h-16.3v-10.56h16.3v10.56Z"/>
+  <path class="cls-1" d="M212.72,152.37h17.46v-10.56h-17.46v10.56h0Z"/>
+  <path class="cls-2" d="M230.18,152.37h-17.46v-10.56h17.46v10.56Z"/>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(95.44 63.98)"><tspan x="0" y="0">V</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(99.99 63.98)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.26 63.98)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(105.97 63.98)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(107.67 63.98)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-4" transform="translate(130.71 63.98)"><tspan x="0" y="0">T</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(134.55 63.98)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(138.82 63.98)"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(163.39 63.98)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(179.72 63.98)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(214.97 63.98)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(220.4 63.98)"><tspan x="0" y="0">–</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(224.67 63.98)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.95 62.29)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(200.22 62.29)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(204.49 62.29)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 55.59) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 51.32) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 47.05) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(95.44 41.2)"><tspan x="0" y="0">V</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(99.99 41.2)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.26 41.2)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(105.97 41.2)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(107.67 41.2)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-4" transform="translate(130.71 41.2)"><tspan x="0" y="0">T</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(134.55 41.2)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(138.82 41.2)"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(163.39 41.2)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(179.72 41.2)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(214.97 41.2)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(220.4 41.2)"><tspan x="0" y="0">–</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(224.67 41.2)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.95 39.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(200.22 39.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(204.49 39.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(66.36 53.33)"><tspan x="0" y="0">S</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(71.48 53.33)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(75.75 53.33)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(80.02 53.33)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(84.29 53.33)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(95.45 111.74)"><tspan x="0" y="0">V</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(100 111.74)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.27 111.74)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(105.98 111.74)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(107.68 111.74)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-4" transform="translate(130.71 111.74)"><tspan x="0" y="0">T</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(134.55 111.74)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(138.82 111.74)"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(163.4 111.74)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(179.73 111.74)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(214.98 111.74)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(220.41 111.74)"><tspan x="0" y="0">–</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(224.68 111.74)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.95 110.05)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(200.22 110.05)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(204.49 110.05)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 103.35) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 99.08) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 94.81) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(95.44 88.96)"><tspan x="0" y="0">V</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(99.99 88.96)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.26 88.96)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(105.97 88.96)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(107.67 88.96)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-4" transform="translate(130.71 88.96)"><tspan x="0" y="0">T</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(134.55 88.96)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(138.82 88.96)"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(163.39 88.96)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(179.72 88.96)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(214.97 88.96)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(220.4 88.96)"><tspan x="0" y="0">–</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(224.67 88.96)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.95 87.26)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(200.22 87.26)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(204.49 87.26)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(66.36 101.09)"><tspan x="0" y="0">S</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(71.48 101.09)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(75.75 101.09)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(80.02 101.09)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(84.29 101.09)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(95.45 172.22)"><tspan x="0" y="0">V</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(100 172.22)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.27 172.22)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(105.98 172.22)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(107.68 172.22)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-4" transform="translate(130.71 172.22)"><tspan x="0" y="0">T</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(134.55 172.22)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(138.82 172.22)"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(98.82 190.33)"><tspan x="0" y="0">C</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.36 190.33)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(108.63 190.33)"><tspan x="0" y="0">c</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(112.47 190.33)"><tspan x="0" y="0">h</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(116.74 190.33)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(123.15 190.33)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(126.99 190.33)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(128.69 190.33)"><tspan x="0" y="0">z</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(132.53 190.33)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(136.8 190.33)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(145.34 190.33)"><tspan x="0" y="0">C</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(153.02 190.33)"><tspan x="0" y="0">=</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(159.64 190.33)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(166.9 190.33)"><tspan x="0" y="0">×</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(173.52 190.33)"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(180.78 190.33)"><tspan x="0" y="0">×</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(187.4 190.33)"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(194.66 190.33)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(198.93 190.33)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(203.2 190.33)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(205.33 190.33)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(211.74 190.33)"><tspan x="0" y="0">b</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(216.01 190.33)"><tspan x="0" y="0">y</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(219.85 190.33)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(221.98 190.33)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(226.25 190.33)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(163.4 172.22)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(179.73 172.22)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(214.97 172.22)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(220.4 172.22)"><tspan x="0" y="0">–</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(224.67 172.22)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.95 170.53)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(200.22 170.53)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(204.49 170.53)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 163.83) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 159.56) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 155.29) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 134.07) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 129.8) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(164.37 125.53) rotate(-90)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(95.44 149.44)"><tspan x="0" y="0">V</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(99.99 149.44)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.26 149.44)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(105.97 149.44)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(107.67 149.44)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-4" transform="translate(130.71 149.44)"><tspan x="0" y="0">T</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(134.55 149.44)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(138.82 149.44)"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(163.39 149.44)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(179.72 149.44)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(214.97 149.44)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(220.4 149.44)"><tspan x="0" y="0">–</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(224.67 149.44)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.95 147.74)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(200.22 147.74)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(204.49 147.74)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(56.66 161.57)"><tspan x="0" y="0">S</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(61.78 161.57)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(66.05 161.57)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(70.32 161.57)"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(75.75 161.57)"><tspan x="0" y="0">–</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(80.02 161.57)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(84.29 161.57)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(86.8 9.98)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(93.2 9.98)"><tspan x="0" y="0">v</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(97.04 9.98)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(101.31 9.98)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(103.02 9.98)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(104.72 9.98)"><tspan x="0" y="0">d</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(111.13 9.98)"><tspan x="0" y="0">b</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(115.4 9.98)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(117.1 9.98)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(90.42 18.62)"><tspan x="0" y="0">p</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(94.69 18.62)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(98.96 18.62)"><tspan x="0" y="0">r</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(103.66 18.62)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(105.36 18.62)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(107.07 18.62)"><tspan x="0" y="0">n</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(111.34 18.62)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(123.41 9.98)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(127.68 9.98)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(129.81 9.98)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(134.08 9.98)"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(140.49 9.98)"><tspan x="0" y="0">b</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(144.76 9.98)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(146.46 9.98)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(148.6 9.98)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(125.33 18.62)"><tspan x="0" y="0">p</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(129.6 18.62)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(133.87 18.62)"><tspan x="0" y="0">r</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(138.56 18.62)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(140.27 18.62)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(141.97 18.62)"><tspan x="0" y="0">n</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(146.24 18.62)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(171.5 12.52)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(178.76 12.52)"><tspan x="0" y="0">=</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(185.38 12.52)"><tspan x="0" y="0">2</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-8" transform="translate(190.26 9.45)"><tspan x="0" y="0">b</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.6 12.52)"><tspan x="0" y="0">b</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(199.87 12.52)"><tspan x="0" y="0">y</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(203.71 12.52)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(205.85 12.52)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(210.12 12.52)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(165.83 21.16)"><tspan x="0" y="0">p</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(170.1 21.16)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(174.37 21.16)"><tspan x="0" y="0">r</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(179.07 21.16)"><tspan x="0" y="0">c</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(182.91 21.16)"><tspan x="0" y="0">a</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(187.18 21.16)"><tspan x="0" y="0">c</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(191.02 21.16)"><tspan x="0" y="0">h</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(195.29 21.16)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(201.69 21.16)"><tspan x="0" y="0">b</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(205.96 21.16)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(207.67 21.16)"><tspan x="0" y="0">o</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(211.94 21.16)"><tspan x="0" y="0">c</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(215.78 21.16)"><tspan x="0" y="0">k</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(7.15 108.52)"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(14.41 108.52)"><tspan x="0" y="0">=</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(21.03 108.52)"><tspan x="0" y="0">2</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-8" transform="translate(25.76 105.45)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(30.78 108.52)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(34.62 108.52)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(38.89 108.52)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(41.02 108.52)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-5" transform="translate(247.54 54.46)"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g class="cls-7">
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(254.79 54.46)"><tspan x="0" y="0">l</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(256.5 54.46)"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(258.2 54.46)"><tspan x="0" y="0">n</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(262.47 54.46)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(266.74 54.46)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(272.72 54.46)"><tspan x="0" y="0">p</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(276.99 54.46)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(281.26 54.46)"><tspan x="0" y="0">r</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(285.95 54.46)"><tspan x="0" y="0">s</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(289.79 54.46)"><tspan x="0" y="0">e</tspan></text>
+    </g>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(294.06 54.46)"><tspan x="0" y="0">t</tspan></text>
+    </g>
+  </g>
+  <path class="cls-3" d="M240.41,71.66c1.48,0,2.68-1.2,2.68-2.68v-14.78h0c0-1.48,1.2-2.68,2.68-2.68-1.48,0-2.68-1.2-2.68-2.68h0v-14.6c0-1.48-1.2-2.68-2.68-2.68"/>
+  <path class="cls-3" d="M113.61,27.22c0-1.18-.96-2.15-2.15-2.15h-5.11c-1.18,0-2.14-.96-2.14-2.15,0,1.18-.96,2.15-2.15,2.15h-5.92c-1.18,0-2.15.96-2.15,2.15"/>
+  <path class="cls-3" d="M152.46,27.22c0-1.18-.96-2.15-2.14-2.15h-11.05c-1.19,0-2.15-.96-2.15-2.15,0,1.18-.96,2.15-2.15,2.15h-11.27c-1.19,0-2.15.96-2.15,2.15"/>
+  <path class="cls-3" d="M230.52,27.22c0-1.18-.96-2.15-2.15-2.15h-33.02c-1.19,0-2.15-.96-2.15-2.15,0,1.18-.96,2.15-2.15,2.15h-30.89c-1.19,0-2.15.96-2.15,2.15"/>
+  <path class="cls-3" d="M56.45,30.57c-2.22,0-4.02,1.8-4.02,4.02v67.77h0c0,2.22-1.8,4.02-4.02,4.02,2.22,0,4.02,1.8,4.02,4.02h0v64.14c0,2.22,1.8,4.02,4.02,4.02"/>
+</svg>

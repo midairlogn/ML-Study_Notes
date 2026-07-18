@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 20px; fill: #222222; font-weight: bold; }
+      .address { font-family: 'Courier New', Courier, monospace; font-size: 18px; fill: #333333; font-weight: bold; text-anchor: middle; }
+      .value { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; fill: #111111; font-weight: bold; text-anchor: middle; }
+      .dots { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 22px; fill: #666666; text-anchor: middle; }
+      .block { fill: #82d1f5; stroke: #333333; stroke-width: 1.5; }
+      .track-line { stroke: #333333; stroke-width: 1.5; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#ffffff" />
+
+  <g transform="translate(15, 10)">
+    <text x="0" y="25" class="title">Big endian</text>
+    
+    <line x1="0" y1="60" x2="530" y2="60" class="track-line" />
+    <line x1="0" y1="110" x2="530" y2="110" class="track-line" />
+    
+    <text x="45" y="92" class="dots">...</text>
+    <text x="485" y="92" class="dots">...</text>
+    
+    <rect x="90" y="60" width="85" height="50" class="block" />
+    <text x="132.5" y="48" class="address">0x100</text>
+    <text x="132.5" y="91" class="value">01</text>
+    
+    <rect x="175" y="60" width="85" height="50" class="block" />
+    <text x="217.5" y="48" class="address">0x101</text>
+    <text x="217.5" y="91" class="value">23</text>
+    
+    <rect x="260" y="60" width="85" height="50" class="block" />
+    <text x="302.5" y="48" class="address">0x102</text>
+    <text x="302.5" y="91" class="value">45</text>
+    
+    <rect x="345" y="60" width="85" height="50" class="block" />
+    <text x="387.5" y="48" class="address">0x103</text>
+    <text x="387.5" y="91" class="value">67</text>
+  </g>
+
+  <g transform="translate(15, 130)">
+    <text x="0" y="25" class="title">Little endian</text>
+    
+    <line x1="0" y1="60" x2="530" y2="60" class="track-line" />
+    <line x1="0" y1="110" x2="530" y2="110" class="track-line" />
+    
+    <text x="45" y="92" class="dots">...</text>
+    <text x="485" y="92" class="dots">...</text>
+    
+    <rect x="90" y="60" width="85" height="50" class="block" />
+    <text x="132.5" y="48" class="address">0x100</text>
+    <text x="132.5" y="91" class="value">67</text>
+    
+    <rect x="175" y="60" width="85" height="50" class="block" />
+    <text x="217.5" y="48" class="address">0x101</text>
+    <text x="217.5" y="91" class="value">45</text>
+    
+    <rect x="260" y="60" width="85" height="50" class="block" />
+    <text x="302.5" y="48" class="address">0x102</text>
+    <text x="302.5" y="91" class="value">23</text>
+    
+    <rect x="345" y="60" width="85" height="50" class="block" />
+    <text x="387.5" y="48" class="address">0x103</text>
+    <text x="387.5" y="91" class="value">01</text>
+  </g>
+</svg>

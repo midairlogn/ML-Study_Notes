@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 540" width="100%" height="100%">
+  <g font-family="monospace" font-size="18" font-weight="bold" fill="#1a1a1a">
+    <text y="50"><tspan x="40">() [] -&gt; .</tspan><tspan x="350">&lt;─ grouping / member</tspan></text>
+    <text y="82"><tspan x="40">! ~ ++ -- (type) * &amp; sizeof</tspan><tspan x="350">&lt;─ unary</tspan></text>
+    <text y="114"><tspan x="40">* / %</tspan><tspan x="350">&lt;─ mul/div/mod</tspan></text>
+    <text y="146"><tspan x="40">+ -</tspan><tspan x="350">&lt;─ add/sub</tspan></text>
+    <text y="178"><tspan x="40">&lt;&lt; &gt;&gt;</tspan><tspan x="350">&lt;─ shift</tspan></text>
+    <text y="210"><tspan x="40">&lt; &lt;= &gt; &gt;=</tspan><tspan x="350">&lt;─ relational</tspan></text>
+    <text y="242"><tspan x="40">== !=</tspan><tspan x="350">&lt;─ equality</tspan></text>
+    <text y="274"><tspan x="40">&amp;</tspan><tspan x="350">&lt;─ bitwise AND</tspan></text>
+    <text y="306"><tspan x="40">^</tspan><tspan x="350">&lt;─ bitwise XOR</tspan></text>
+    <text y="338"><tspan x="40">|</tspan><tspan x="350">&lt;─ bitwise OR</tspan></text>
+    <text y="370"><tspan x="40">&amp;&amp;</tspan><tspan x="350">&lt;─ logical AND</tspan></text>
+    <text y="402"><tspan x="40">||</tspan><tspan x="350">&lt;─ logical OR</tspan></text>
+    <text y="434"><tspan x="350">?:<tspan dx="24">&lt;─ conditional</tspan></tspan></text>
+    <text y="466"><tspan x="350">= += -= ...<tspan dx="24">&lt;─ assignment</tspan></tspan></text>
+    <text y="498"><tspan x="40">,</tspan><tspan x="350">&lt;─ comma</tspan></text>
+  </g>
+</svg>
