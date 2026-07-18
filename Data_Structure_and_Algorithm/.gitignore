@@ -1,0 +1,6 @@
+.vscode
+backup
+original
+process
+*.exe
+example_code/*.exe
