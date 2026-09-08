@@ -15,7 +15,7 @@ int main() {
         
     }
 #ifdef ML_DEBUG
-	cerr << "Executed in " << chrono::duration_cast<chrono::milliseconds>(chrono::high_resolution_clock::now() - _clock_start).count() << " ms." << endl;
+	cerr << "Executed in " << chrono::duration_cast<chrono::milliseconds>(chrono::high_resolution_clock::now() - _clock_start).count() << " ms." << '\n';
 #endif
     return 0;
 }
